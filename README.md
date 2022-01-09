@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rudra.
 - 👀 I’m interested in Technology (specifically Consumer Electronics, SOCs) and Gaming (especially Minecraft).
-- 🌱 I’m currently a Engineering student at Pune Institute of Computer Technology (PICT) Pune.
+- 🌱 I’m currently an Engineering student at Pune Institute of Computer Technology (PICT) Pune.
 - 📫 How to reach me? Contact me on Twitter, LinkedIn or Telegram (links in https://bit.ly/rudrkadam).
 
 <!---
