@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hello, I'm Rudra 👋
 
-A final-year Engineering undergrad pursuing a Bachelor of Engineering (B.E.) in Information Technology at Pune Institute of Computer Technology (PICT), Pune. I'm primarily a **Java programmer** with a passion for learning new technologies and leveraging them to build real-world solutions.
+A final-year Engineering undergrad pursuing a **Bachelor of Engineering** (B.E.) in **Information Technology** at Pune Institute of Computer Technology (PICT), Pune. I'm primarily a **Java programmer** with a passion for learning new technologies and leveraging them to build real-world solutions.
 
 ### Skills 🛠
 - **Programming Languages:** Java, Python
