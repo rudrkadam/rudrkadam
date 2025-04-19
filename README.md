@@ -14,12 +14,7 @@ A final-year Engineering undergrad pursuing a **Bachelor of Engineering** (B.E.)
 - **Databases:** MySQL, MongoDB
 - **Developer Tools:** VS Code, IntelliJ IDEA, Git, GitHub, Google Colab
 - **Operating Systems:** Windows, Linux
-- **Relevant Coursework:**
-  - Object-Oriented Programming (OOP)
-  - Operating Systems (OS)
-  - Database Management Systems (DBMS)
-  - Data Structures & Algorithms (DSA)
-  - Computer Networks & Security (CNS)
+- **Core Knowledge Areas:** OOP, OS, DBMS, DSA, Computer Networks & Security
 - **Soft Skills:**
   - Efficient & Fast Troubleshooting
   - Designing
